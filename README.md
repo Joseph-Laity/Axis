@@ -38,29 +38,6 @@ The purpose of this application is to provide users with an easy way to access a
 - ViewBinding
 - Gson / JSON parsing library
 
----
-
-## Project Structure
-├── ui\n
-│ ├── MainActivity.kt
-│ ├── StatsActivity.kt
-│
-├── viewmodel
-│ ├── PlayerViewModel.kt
-│ ├── PlayerViewModelFactory.kt
-│
-├── repository
-│ ├── PlayerRepository.kt
-│
-├── model
-│ ├── Player.kt
-│
-├── network
-│ ├── RetrofitInstance.kt
-│ ├── NetworkResult.kt
-
----
-
 ## Installation Instructions
 
 ### Prerequisites
