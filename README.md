@@ -41,7 +41,7 @@ The purpose of this application is to provide users with an easy way to access a
 ---
 
 ## Project Structure
-├── ui
+├── ui\n
 │ ├── MainActivity.kt
 │ ├── StatsActivity.kt
 │
